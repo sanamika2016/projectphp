@@ -1,0 +1,6 @@
+
+
+
+1. within title we give form action 
+eg
+<form action="register.html>"
